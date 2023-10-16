@@ -1,7 +1,7 @@
 {
-  "name": "glitch-hello-node",
+  "name": "getiktmp",
   "version": "0.1.0",
-  "description": "A simple Node app built on fastify, instantly up and running. Built to be remixed on Glitch.com.",
+  "description": "Retrieve idokep datas",
   "main": "server.mjs",
   "type": "module",
   "scripts": {
